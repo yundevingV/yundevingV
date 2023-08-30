@@ -22,8 +22,13 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=owanys)](https://solved.ac/owanys/)
 
-<div align=center><h1>🔥Projects</h1></div
+<div align=center><h1>🔥Projects</h1></div>
 
-- [MyGreen](https://github.com/HoChanny/MyGreen)\
-  어플리케이션 뷰 제작
-</div>
+*  [MyGreen](https://github.com/HoChanny/MyGreen) (2023.03.02 ~ 현재)
+
+<p> 어플리케이션 뷰 제작 - Flutter</p> 
+
+*  [BookStore24](https://github.com/yundevingV/BookStore24) (2023.05.23 ~ 현재)
+
+<p>  웹 뷰 제작 - React</p>
+
