@@ -26,9 +26,13 @@
 
 *  [MyGreen](https://github.com/HoChanny/MyGreen) (2023.03.02 ~ 현재)
 
-<p> 어플리케이션 뷰 제작 - Flutter</p> 
+<p> 어플리케이션 프론트엔드 - Flutter</p> 
 
 *  [BookStore24](https://github.com/yundevingV/BookStore24) (2023.05.23 ~ 현재)
 
-<p>  웹 뷰 제작 - React</p>
+<p>  웹 프론트엔드 - React</p>
+
+*  [NeoTrinity](https://github.com/yundevingV/NeoTrinity) (2023.06.26 ~ 현재)
+
+<p>  웹 프론트엔드 - React</p>
 
