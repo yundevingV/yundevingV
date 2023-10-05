@@ -34,7 +34,7 @@
 
 <div align=center><h1>🔥Projects</h1></div>
 
-*  [MyGreen](https://github.com/HoChanny/MyGreen) (2023.03.02 ~ 현재)
+*  [MyGreen](https://github.com/HoChanny/MyGreen) (2023.03.02 ~ 2023.09.20)
 
 <p> 어플리케이션 프론트엔드 - Flutter</p> 
 
