@@ -35,7 +35,7 @@
 <div align=center><h1>🔥Projects</h1></div>
 
 
-*  [NeoTrinity](https://github.com/yundevingV/NeoTrinity](https://github.com/yundevingV/NeoTrinity/tree/develop/Frontend) (2023.06.26 ~ 현재)
+*  [NeoTrinity](https://github.com/yundevingV/NeoTrinity/tree/develop/Frontend) (2023.06.26 ~ 2023.12.01)
 
 <p>  웹 프론트엔드 - React</p>
 
