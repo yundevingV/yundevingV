@@ -34,18 +34,11 @@
 
 <div align=center><h1>🔥Projects</h1></div>
 
+
+*  [NeoTrinity](https://github.com/yundevingV/NeoTrinity](https://github.com/yundevingV/NeoTrinity/tree/develop/Frontend) (2023.06.26 ~ 현재)
+
+<p>  웹 프론트엔드 - React</p>
+
 *  [MyGreen](https://github.com/HoChanny/MyGreen) (2023.03.02 ~ 2023.09.20)
 
 <p> 어플리케이션 프론트엔드 - Flutter</p> 
-
-*  [BookStore24](https://github.com/yundevingV/BookStore24) (2023.05.23 ~ 현재)
-
-<p>  웹 프론트엔드 - React</p>
-
-*  [NeoTrinity](https://github.com/yundevingV/NeoTrinity) (2023.06.26 ~ 현재)
-
-<p>  웹 프론트엔드 - React</p>
-
-*  [Matna](https://github.com/yundevingV/matna) (2023.09.20 ~ 현재)
-
-<p>  웹 프론트엔드 - React</p>
