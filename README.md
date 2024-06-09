@@ -34,6 +34,13 @@
 
 <div align=center><h1>🔥Projects</h1></div>
 
+*  [Duett](https://github.com/CUK-CRUSH/Matching_Front) (2024.04.23 ~ 현재)
+
+<p>  웹 프론트엔드 - React</p>
+
+*  [MyList](https://github.com/CUK-CRUSH/Dino_Front) (2023.12.26 ~ 2023.04.25)
+
+<p>  웹 프론트엔드 - React</p>
 
 *  [NeoTrinity](https://github.com/yundevingV/NeoTrinity/tree/develop/Frontend) (2023.06.26 ~ 2023.12.01)
 
