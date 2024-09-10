@@ -27,6 +27,7 @@
 <div align=""><h1>👍BOJ</h1></div>
 
 <div align="center">
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=owanys)](https://solved.ac/owanys/)
 </div>
 
