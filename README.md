@@ -38,8 +38,6 @@
 
 </div>
 
-<div align=""><h1>✨ACTIVITY</h1></div>
-
 
 
 <div align=""><h1>👍BOJ</h1></div>
