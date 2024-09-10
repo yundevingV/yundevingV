@@ -32,7 +32,8 @@
 
 <div align=""><h1>🔥Projects</h1></div>
 
-<div align="center">
+<div align="">
+  
   *  [MyList](https://github.com/CUK-CRUSH/Dino_Front) (2023.12.26 ~ 2024.04.25)
   <p>  프론트엔드 - React</p>
 
