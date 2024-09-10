@@ -14,8 +14,12 @@
 
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=black">
+  <img src="https://img.shields.io/badge/zustand-007ACC?style=flat&logo=zustand&logoColor=white">
+  <br />
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=black">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/react_query-FF4154?style=flat&logo=reactquery&logoColor=white">
+
   <br />
 
   <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white">
@@ -26,13 +30,17 @@
 
 </div>
 
-<div align=""><h1>🛠️ LANGUEGE</h1></div>
+<div align=""><h1>🛠️LANGUEGE</h1></div>
 
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yundevingV)](https://github.com/yundevingV/github-readme-stats)
 
 </div>
+
+<div align=""><h1>✨ACTIVITY</h1></div>
+
+
 
 <div align=""><h1>👍BOJ</h1></div>
 
