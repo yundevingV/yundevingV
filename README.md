@@ -1,4 +1,6 @@
-### Welcome My Git 👩‍💻
+## Welcome My Git 👩‍💻
+
+### I'm Front-end Junier Developer.
 
 <div align=""><h1>📚 STACKS</h1></div>
 
@@ -21,6 +23,14 @@
   
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white">
+
+</div>
+
+<div align=""><h1>🛠️ LANGUEGE</h1></div>
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yundevingV)](https://github.com/yundevingV/github-readme-stats)
 
 </div>
 
