@@ -1,6 +1,6 @@
 ## Welcome My Git 👩‍💻
 
-### I'm Front-end Junier Developer.
+### I'm Front-end Junior Developer.
 
 <div align=""><h1>📚 STACKS</h1></div>
 
