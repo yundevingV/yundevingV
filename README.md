@@ -30,13 +30,7 @@
 
 </div>
 
-<div align=""><h1>🛠️LANGUEGE</h1></div>
 
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yundevingV)
-
-</div>
 
 
 
